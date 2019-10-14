@@ -17,6 +17,6 @@ Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos s
 
 * A través de imágenes satelitales de diferentes períodos y de estadísticas proporcionadas por organismos correspondientes, ¿Se pudiera determinar si existe una relación entre la tala indiscriminada de árboles (deforestación) la sobrepoblación (especialmente por la inmigración extranjera) con la sequía de los ríos principales de la Republica Dominicana?
 
-* ...
+* Se podría verificar el incremento disminución de la actividad turística en el Malecón de Santo Domingo con apoyo de estadísticas del Ministerio de Turismo, Datos proporcionados por el Ayuntamiento del Distrito Nacional y a través de imágenes satelitales multitemporales relacionadas a las distintas intervenciones de rehabilitación urbana realizadas en el mismo. 
 
-* ...
+* Se podría determinar en base a estadísticas que pudiesen proporcionar el 911, en que zonas del Distrito Nacional se producen mayor cantidad de emergencias con la finalidad de identificar estas zonas y verificar si las ambulancias o equipamiento existente satisfacen la demanda. 
